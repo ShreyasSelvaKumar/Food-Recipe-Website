@@ -1,0 +1,15 @@
+com\codejava\assignment2\UserAddIngredientsToRecipePojo.class
+com\codejava\assignment2\AdminDeleteRecipesPojo.class
+com\codejava\assignment2\AdminModifyUserPojo.class
+com\codejava\assignment2\AdminRegistrationPojo.class
+com\codejava\assignment2\AdminDeleteUserPojo.class
+com\mycompany\hibernateUtil\HibernateUtil.class
+com\codejava\assignment2\UserLoginPojo.class
+com\codejava\assignment2\AdminAddRecipesPojo.class
+com\codejava\assignment2\resources\JakartaEE10Resource.class
+com\codejava\assignment2\AdminLoginPojo.class
+com\codejava\assignment2\RecipeCreatePojo.class
+com\mycompany\servlet\SimpleServlet.class
+com\codejava\assignment2\UserDeleteIngredientsFromRecipePojo.class
+com\codejava\assignment2\JakartaRestConfiguration.class
+com\codejava\assignment2\UserRegistrationPojo.class
